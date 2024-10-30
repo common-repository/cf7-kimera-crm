@@ -1,0 +1,173 @@
+# Translation of Plugins - Contact Form 7 - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Contact Form 7 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-26 21:24+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Contact Form 7 - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: modules/number.php:135
+msgid "The CAP you entered is invalid."
+msgstr "Il CAP inserito non è valido."
+
+#: modules/number.php:135
+msgid "A communication error has occured"
+msgstr "Si è verificato un errore di comunicazione"
+
+#: modules/number.php:135
+msgid "A communication error with the CRM has occured"
+msgstr "Quando si verifica un errore di comunicazione verso il CRM"
+
+#: modules/number.php:135
+msgid "Resource"
+msgstr "Risorsa"
+
+#: modules/number.php:135
+msgid "Filter"
+msgstr "Filtro"
+
+#: modules/number.php:135
+msgid "checkboxes (from CRM)"
+msgstr "caselle di controllo (da CRM)"
+
+#: modules/number.php:135
+msgid "radio buttons (from CRM)"
+msgstr "pulsanti di opzione (da CRM)"
+
+#: modules/number.php:135
+msgid "drop-down menu (from CRM)"
+msgstr "menù a discesa (da CRM)"
+
+#: modules/number.php:135
+msgid "Generate a form-tag for a group of checkboxes retrieving the values from the CRM."
+msgstr "Genera un form-tag per un gruppo di caselle di controllo recuperando i valori dal CRM collegato"
+
+#: modules/number.php:135
+msgid "Generate a form-tag for a group of radio buttons retrieving the values from the CRM."
+msgstr "Genera un form-tag per un gruppo di pulsanti di opzione recuperando i valori dal CRM collegato"
+
+#: modules/number.php:135
+msgid "Generate a form-tag for a drop-down menu retrieving the values from the CRM."
+msgstr "Genera un form-tag per un menu a discesa recuperando i valori dal CRM collegato"
+
+#: modules/number.php:135
+msgid "Settings for"
+msgstr "Impostazioni"
+
+#: modules/number.php:135
+msgid "Enable the submission of data to Kimera CRM"
+msgstr "Abilita l'inserimento dei dati della form nel CRM Kimera"
+
+#: modules/number.php:135
+msgid "Performs an insert operation on a resource of a Kimera CRM installation. E.g Resource: Anagrafiche, Action: POST."
+msgstr "Esegue l'inserimento di una risorsa in un'installazione di Kimera CRM. Es. Risorsa: Anagrafiche, Azione: POST."
+
+#: modules/number.php:135
+msgid "Sets Form independent values.  E.g. idTipologia=xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&idProvenienza=xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+msgstr "Imposta valori non dipendenti dalla form Es. idTipologia=xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&idProvenienza=xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+#: modules/number.php:135
+msgid "Url CRM"
+msgstr "Url CRM"
+
+#: modules/number.php:135
+msgid "Authorization key"
+msgstr "Chiave di autorizzazione"
+
+#: modules/number.php:135
+msgid "Retrieve this value from the 'Impostazioni / Gestione Form Web' section of the CRM. Look for the label 'Codice'"
+msgstr "Recuperare il valore dalla sezione 'Impostazioni / Gestione Form Web' del CRM alla voce 'Codice'"
+
+#: modules/number.php:135
+msgid "Action"
+msgstr "Azione"
+
+#: modules/number.php:135
+msgid "Fixed parameters"
+msgstr "Parametri fissi"
+
+#: modules/number.php:135
+msgid "Prevent Conctat Form 7 from actually sending the email."
+msgstr "Non inviare la mail standard di Contact Form"
+
+
+#: modules/number.php:135
+msgid "Missing Kimera CRM URL"
+msgstr "URL Crm Kimera non specificata"
+
+#: modules/number.php:135
+msgid "Missing Kimera CRM authorization key"
+msgstr "Chiave di autorizzazione Crm Kimera non specificata"
+
+#: modules/number.php:135
+msgid "Missing Kimera CRM resource"
+msgstr "Risorsa Crm Kimera non specificata"
+
+#: modules/number.php:135
+msgid "Missing Kimera CRM action"
+msgstr "Action Crm Kimera non specificata"
+
+#: modules/number.php:135
+msgid "Enable Kimera CRM integration for this Contact Form."
+msgstr "Abilita l'integrazione col CRM Kimera per questa Contact Form."
+
+#: modules/number.php:135
+msgid "Insert the URL for your Kimera CRM installation and the Authorization Key associated to enable read/write data features."
+msgstr "Inserisci la URL della tua installazione del CRM Kimera e la chiave di autorizzazione ad esso associata per abilitare le funzioni di lettura e scrittura dei dati."
+
+#: modules/number.php:135
+msgid "Enable HTML 5 fallback functionality (useful when using DATE input)"
+msgstr "Abilita le funzionalità di fallback per HTML 5 (utile in caso si utilizzino input di tipo DATE)"
+
+#: modules/number.php:135
+msgid "WARNING: in order to take advantage of all the functionalities of this plugin we STRONGLY RECOMMEND to include the \"define( 'WPCF7_AUTOP', false );\" directive in your \"wp-config.php\" file."
+msgstr "ATTENZIONE: per beneficiare di tutte le funzionalità messe a disposizione da questo plugin RACCOMANDIAMO VIVAMENTE di inserire la direttiva \"define( 'WPCF7_AUTOP', false );\" nel file \"wp-config.php\"."
+
+#: modules/number.php:135
+msgid "Starting date (optional)"
+msgstr "Data iniziale (opzionale)"
+
+#: modules/number.php:135
+msgid "Generate a form-tag for an enhanched date input field."
+msgstr "Genera una tag per un input di tipo data avanzato."
+
+#: modules/number.php:135
+msgid "enhanced date"
+msgstr "data avanzata"
+
+#: modules/number.php:135
+msgid "Years selector range (optional)"
+msgstr "Intervallo di anni nel selettore (opzionale)"
+
+#: modules/number.php:135
+msgid "Format"
+msgstr "Formato"
+
+#: modules/number.php:135
+msgid "Description"
+msgstr "Descrizione"
+
+#: modules/number.php:135
+msgid "Field Code"
+msgstr "Identificativo campo"
+
+#: modules/number.php:135
+msgid "Enabled resources"
+msgstr "Risorse abilitate"
+
+#: modules/number.php:135
+msgid "In order to view the resources and fields available, you need to specify the CRM Url"
+msgstr "Per poter visualizzare le risorse abilitate ed i relativi campi è necessario impostare l'Url del CRM"
+
+#: modules/number.php:135
+msgid "List of available resources and related fields on the selected crm"
+msgstr "Elenco delle risorse e dei relativi campi disponibili sul crm selezionato"
+
